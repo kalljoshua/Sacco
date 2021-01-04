@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/karl/development/qcAppRelease/build/firebase_database/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/karl/.gradle/caches/transforms-2/files-2.1/76f296c22ab382aab3b13ae2a3896358/core-1.0.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/karl/development/qcAppRelease/build/firebase_database/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/karl/.gradle/caches/transforms-2/files-2.1/76f296c22ab382aab3b13ae2a3896358/core-1.0.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/karl/development/qcAppRelease/build/firebase_database/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/karl/.gradle/caches/transforms-2/files-2.1/76f296c22ab382aab3b13ae2a3896358/core-1.0.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/karl/development/qcAppRelease/build/firebase_database/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/karl/.gradle/caches/transforms-2/files-2.1/76f296c22ab382aab3b13ae2a3896358/core-1.0.0/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/karl/development/qcAppRelease/build/cloud_firestore/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/home/karl/.gradle/caches/transforms-2/files-2.1/76f296c22ab382aab3b13ae2a3896358/core-1.0.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/karl/development/qcAppRelease/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/karl/.gradle/caches/transforms-2/files-2.1/76f296c22ab382aab3b13ae2a3896358/core-1.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/karl/development/qcAppRelease/build/cloud_firestore/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/home/karl/.gradle/caches/transforms-2/files-2.1/76f296c22ab382aab3b13ae2a3896358/core-1.0.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/karl/development/qcAppRelease/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/karl/.gradle/caches/transforms-2/files-2.1/76f296c22ab382aab3b13ae2a3896358/core-1.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/karl/development/qcAppRelease/build/cloud_firestore/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/home/karl/.gradle/caches/transforms-2/files-2.1/76f296c22ab382aab3b13ae2a3896358/core-1.0.0/res/layout/notification_template_icon_group.xml"
+    }
+]

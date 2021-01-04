@@ -1,0 +1,19 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/home/karl/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.13.0+1/
+firebase_auth=/home/karl/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.11.1+12/
+firebase_core=/home/karl/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.1+5/
+firebase_core_web=/home/karl/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.2.1+1/
+firebase_database=/home/karl/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-3.1.6/
+firebase_storage=/home/karl/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.1.6/
+flutter_plugin_android_lifecycle=/home/karl/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-1.0.11/
+image_picker=/home/karl/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.7+17/
+path_provider=/home/karl/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.6.24/
+path_provider_linux=/home/karl/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-0.0.1+2/
+path_provider_macos=/home/karl/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-0.0.4+6/
+path_provider_windows=/home/karl/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-0.0.4+3/
+shared_preferences=/home/karl/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.12+4/
+shared_preferences_linux=/home/karl/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-0.0.2+4/
+shared_preferences_macos=/home/karl/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+11/
+shared_preferences_web=/home/karl/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-0.1.2+7/
+shared_preferences_windows=/home/karl/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-0.0.1+3/
+integration_test=/home/karl/snap/flutter/common/flutter/packages/integration_test/

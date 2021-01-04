@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/karl/development/qcAppRelease/build/image_picker/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/home/karl/.gradle/caches/transforms-2/files-2.1/f72a7d14f6c5512ea6a98e422a15e87e/core-1.0.2/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/karl/development/qcAppRelease/build/image_picker/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/karl/.gradle/caches/transforms-2/files-2.1/f72a7d14f6c5512ea6a98e422a15e87e/core-1.0.2/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/karl/development/qcAppRelease/build/image_picker/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/home/karl/.gradle/caches/transforms-2/files-2.1/f72a7d14f6c5512ea6a98e422a15e87e/core-1.0.2/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/karl/development/qcAppRelease/build/image_picker/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/home/karl/.gradle/caches/transforms-2/files-2.1/f72a7d14f6c5512ea6a98e422a15e87e/core-1.0.2/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/karl/development/qcAppRelease/build/image_picker/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/karl/.gradle/caches/transforms-2/files-2.1/f72a7d14f6c5512ea6a98e422a15e87e/core-1.0.2/res/layout/notification_template_part_chronometer.xml"
+    }
+]

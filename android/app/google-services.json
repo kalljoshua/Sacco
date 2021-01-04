@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "205527245510",
+    "firebase_url": "https://qc-sacco-default-rtdb.firebaseio.com",
+    "project_id": "qc-sacco",
+    "storage_bucket": "qc-sacco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205527245510:android:0a104cfd35842acaf26dc7",
+        "android_client_info": {
+          "package_name": "com.qcsacco.sacco_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205527245510-col93a74hchmdhf0pakrrrktr0mk1f81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB9OVveUHc-j7lm8OT0bF4Rdkdz6mznBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205527245510-col93a74hchmdhf0pakrrrktr0mk1f81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205527245510:android:dc15251aba2b603cf26dc7",
+        "android_client_info": {
+          "package_name": "com.qcsacoo.sacco_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205527245510-col93a74hchmdhf0pakrrrktr0mk1f81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB9OVveUHc-j7lm8OT0bF4Rdkdz6mznBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205527245510-col93a74hchmdhf0pakrrrktr0mk1f81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

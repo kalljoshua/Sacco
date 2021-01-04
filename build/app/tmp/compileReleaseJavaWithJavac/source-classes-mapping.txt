@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/qcsacco/sacco_app/BuildConfig.java
+ com.qcsacco.sacco_app.BuildConfig
